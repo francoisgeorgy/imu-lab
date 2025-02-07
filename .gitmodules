@@ -1,0 +1,63 @@
+[submodule "micropython-fusion"]
+	path = micropython-fusion
+	url = https://github.com/francoisgeorgy/micropython-fusion
+[submodule "micropython-mpu9x50"]
+	path = micropython-mpu9x50
+	url = https://github.com/francoisgeorgy/micropython-mpu9x50
+[submodule "BNO08x_Pico_Library"]
+	path = BNO08x_Pico_Library
+	url = https://github.com/francoisgeorgy/BNO08x_Pico_Library
+[submodule "Kalman-and-Bayesian-Filters-in-Python"]
+	path = Kalman-and-Bayesian-Filters-in-Python
+	url = https://github.com/francoisgeorgy/Kalman-and-Bayesian-Filters-in-Python
+[submodule "Adafruit_CircuitPython_BNO08x"]
+	path = Adafruit_CircuitPython_BNO08x
+	url = https://github.com/francoisgeorgy/Adafruit_CircuitPython_BNO08x
+[submodule "MicroPython_LIS3DH"]
+	path = MicroPython_LIS3DH
+	url = https://github.com/francoisgeorgy/MicroPython_LIS3DH
+[submodule "esp32_bno08x_driver"]
+	path = esp32_bno08x_driver
+	url = https://github.com/francoisgeorgy/esp32_bno08x_driver
+[submodule "Adafruit_BNO08x"]
+	path = Adafruit_BNO08x
+	url = https://github.com/francoisgeorgy/Adafruit_BNO08x
+[submodule "Part-XV-1DKalmanFilter"]
+	path = Part-XV-1DKalmanFilter
+	url = https://github.com/CarbonAeronautics/Part-XV-1DKalmanFilter
+[submodule "FastIMU"]
+	path = FastIMU
+	url = https://github.com/francoisgeorgy/FastIMU
+[submodule "Attitude-Estimation"]
+	path = Attitude-Estimation
+	url = https://github.com/pms67/Attitude-Estimation
+[submodule "BerryIMU"]
+	path = BerryIMU
+	url = https://github.com/ozzmaker/BerryIMU
+[submodule "micropython_sensorfusion"]
+	path = micropython_sensorfusion
+	url = https://github.com/nihalpasham/micropython_sensorfusion
+[submodule "MobileRobotEKF-LQR"]
+	path = MobileRobotEKF-LQR
+	url = https://github.com/itsahmedkhalil/MobileRobotEKF-LQR
+[submodule "madgwick_py"]
+	path = madgwick_py
+	url = https://github.com/morgil/madgwick_py
+[submodule "Madgwick_Filter"]
+	path = Madgwick_Filter
+	url = https://github.com/bjohnsonfl/Madgwick_Filter
+[submodule "mpu9250_ahrs"]
+	path = mpu9250_ahrs
+	url = https://github.com/laitathei/mpu9250_ahrs
+[submodule "Open-Source-Sensor-Fusion"]
+	path = Open-Source-Sensor-Fusion
+	url = https://github.com/memsindustrygroup/Open-Source-Sensor-Fusion
+[submodule "RTIMULib"]
+	path = RTIMULib
+	url = https://github.com/RPi-Distro/RTIMULib.git
+[submodule "Fusion"]
+	path = Fusion
+	url = https://github.com/xioTechnologies/Fusion
+[submodule "Arduino-mpu6050"]
+	path = Arduino-mpu6050
+	url = https://github.com/mattzzw/Arduino-mpu6050
