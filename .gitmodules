@@ -61,3 +61,6 @@
 [submodule "Arduino-mpu6050"]
 	path = Arduino-mpu6050
 	url = https://github.com/mattzzw/Arduino-mpu6050
+[submodule "esp32_BNO08x"]
+	path = esp32_BNO08x
+	url = https://github.com/myles-parfeniuk/esp32_BNO08x
