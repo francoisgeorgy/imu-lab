@@ -2,6 +2,7 @@
     
     git submodule add https://github.com/francoisgeorgy/micropython-fusion
     git submodule add https://github.com/francoisgeorgy/micropython-mpu9x50
+    git submodule add https://github.com/francoisgeorgy/SparkFun_BNO080_Arduino_Library
     git submodule add https://github.com/francoisgeorgy/BNO08x_Pico_Library
     git submodule add https://github.com/francoisgeorgy/Kalman-and-Bayesian-Filters-in-Python 
     git submodule add https://github.com/francoisgeorgy/Adafruit_BNO08x         C,  SPI, I2C, UART
@@ -22,6 +23,7 @@
     git submodule add https://github.com/ozzmaker/BerryIMU
     git submodule add https://github.com/pms67/Attitude-Estimation 
     git submodule add https://github.com/xioTechnologies/Fusion (sedgwick)
+
 
 # Notes
 
