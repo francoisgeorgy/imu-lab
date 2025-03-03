@@ -64,3 +64,9 @@
 [submodule "esp32_BNO08x"]
 	path = esp32_BNO08x
 	url = https://github.com/myles-parfeniuk/esp32_BNO08x
+[submodule "esp32_imu"]
+	path = esp32_imu
+	url = https://github.com/francoisgeorgy/esp32_imu
+[submodule "Reefwing-AHRS"]
+	path = Reefwing-AHRS
+	url = https://github.com/Reefwing-Software/Reefwing-AHRS

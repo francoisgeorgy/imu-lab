@@ -9,6 +9,7 @@
     git submodule add https://github.com/francoisgeorgy/Adafruit_CircuitPython_BNO08x 
     git submodule add https://github.com/francoisgeorgy/MicroPython_LIS3DH
     git submodule add https://github.com/francoisgeorgy/esp32_bno08x_driver     C,   freertos, SPI, july 2024
+    git submodule add https://github.com/francoisgeorgy/esp32_imu
     git submodule add https://github.com/myles-parfeniuk/esp32_BNO08x           C++, freertos, SPI, dec 2024
     git submodule add https://github.com/francoisgeorgy/FastIMU
     git submodule add https://github.com/CarbonAeronautics/Part-XV-1DKalmanFilter
@@ -23,7 +24,9 @@
     git submodule add https://github.com/ozzmaker/BerryIMU
     git submodule add https://github.com/pms67/Attitude-Estimation 
     git submodule add https://github.com/xioTechnologies/Fusion (sedgwick)
+    git submodule add https://github.com/Reefwing-Software/Reefwing-AHRS (tested with ... Nano 33 BLE SENSE (REV 1 and REV 2))
 
+https://github.com/Reefwing-Software/Reefwing-AHRS/blob/main/examples/nano33BLErev2/nano33BLErev2.ino
 
 # Notes
 
