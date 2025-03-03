@@ -25,6 +25,12 @@
     git submodule add https://github.com/pms67/Attitude-Estimation 
     git submodule add https://github.com/xioTechnologies/Fusion (sedgwick)
     git submodule add https://github.com/Reefwing-Software/Reefwing-AHRS (tested with ... Nano 33 BLE SENSE (REV 1 and REV 2))
+    git submodule add https://github.com/arduino-libraries/Arduino_BMI270_BMM150
+    git submodule add https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary
+    git submodule add https://github.com/sparkfun/Qwiic_9DoF_IMU_ICM20948_Py
+    git submodule add https://github.com/sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout
+    git submodule add https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library
+
 
 https://github.com/Reefwing-Software/Reefwing-AHRS/blob/main/examples/nano33BLErev2/nano33BLErev2.ino
 

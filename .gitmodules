@@ -70,3 +70,18 @@
 [submodule "Reefwing-AHRS"]
 	path = Reefwing-AHRS
 	url = https://github.com/Reefwing-Software/Reefwing-AHRS
+[submodule "Arduino_BMI270_BMM150"]
+	path = Arduino_BMI270_BMM150
+	url = https://github.com/arduino-libraries/Arduino_BMI270_BMM150
+[submodule "SparkFun_ICM-20948_ArduinoLibrary"]
+	path = SparkFun_ICM-20948_ArduinoLibrary
+	url = https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary
+[submodule "Qwiic_9DoF_IMU_ICM20948_Py"]
+	path = Qwiic_9DoF_IMU_ICM20948_Py
+	url = https://github.com/sparkfun/Qwiic_9DoF_IMU_ICM20948_Py
+[submodule "SparkFun_Qwiic_9DoF_IMU_Breakout"]
+	path = SparkFun_Qwiic_9DoF_IMU_Breakout
+	url = https://github.com/sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout
+[submodule "SparkFun_BNO08x_Arduino_Library"]
+	path = SparkFun_BNO08x_Arduino_Library
+	url = https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library
