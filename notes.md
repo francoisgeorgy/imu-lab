@@ -26,7 +26,7 @@ OS :
 My products : 
 
 - [SparkFun 9DoF IMU Breakout - ICM-20948 (Qwiic)](https://thepihut.com/products/sparkfun-9dof-imu-breakout-icm-20948-qwiic?variant=39732787708099)
-  - https://learn.sparkfun.com/tutorials/sparkfun-9dof-imu-icm-20948-breakout-hookup-guide?_ga=2.216416022.1652722017.1695726563-1348376396.1694094300&_gl=1*6t16er*_ga*MTM0ODM3NjM5Ni4xNjk0MDk0MzAw*_ga_T369JS7J9N*MTY5NTk3NzgxMS4xOS4xLjE2OTU5Nzc4MTIuNTkuMC4w
+  - https://learn.sparkfun.com/tutorials/sparkfun-9dof-imu-icm-20948-breakout-hookup-guide
 - [Arduino Nano 33 BLE Rev2](https://thepihut.com/products/arduino-nano-33-ble-rev2-with-headers?variant=43809522483395) (nRF52840, 32-bit Arm Cortex®-M4 CPU running at 64 MHz, BMI270 + BMM150)
   - https://docs.arduino.cc/hardware/nano-33-ble-rev2/
   - nRF52840 from Nordic Semiconductors, 32-bit Arm® Cortex®-M4 CPU running at 64 MHz
