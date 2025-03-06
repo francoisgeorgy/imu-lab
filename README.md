@@ -41,6 +41,9 @@ https://github.com/Reefwing-Software/Reefwing-AHRS/blob/main/examples/nano33BLEr
 [xEventGroupWaitBits](https://www.freertos.org/Documentation/02-Kernel/04-API-references/12-Event-groups-or-flags/04-xEventGroupWaitBits)
 Read bits within an RTOS event group, optionally entering the Blocked state (with a timeout) to wait for a bit or group of bits to become set.
 
+## Misc
+
+- Using BMM270 Accel/Gyro and BMI150 Magnetomer Sensors with Teensy 4.x : https://forum.pjrc.com/index.php?threads/using-bmm270-accel-gyro-and-bmi150-magnetomer-sensors-with-teensy-4-x.76123/ 
 
 # Implementation notes
 
